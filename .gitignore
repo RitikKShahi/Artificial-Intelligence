@@ -1,0 +1,37 @@
+# Object files
+*.o
+*.obj
+*.lo
+*.la
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+dist/
+
+# CMake / Make
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Logs
+*.log
