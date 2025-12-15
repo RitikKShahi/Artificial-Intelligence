@@ -35,3 +35,13 @@ cmake_install.cmake
 
 # Logs
 *.log
+# Ignore all files WITHOUT an extension
+*
+!*.*
+!*/
+
+# Keep common config / source files (add what you need)
+!.gitignore
+!README
+!Makefile
+!CMakeLists.txt
