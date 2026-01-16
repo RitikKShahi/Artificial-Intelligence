@@ -1,0 +1,7 @@
+The problem of inducing general functions from specific training examples is central to concept learning.
+It can be formulated as a problem of searching through predefined space of potential hypothesis for the hypothesis that fits the training example.
+Algorithms-
+1. Find S
+2. Candidate Elimination Algorithm.
+Most specific string - NULL,NULL,NULL,NULL
+MOst generic string- ?,?,?,?
