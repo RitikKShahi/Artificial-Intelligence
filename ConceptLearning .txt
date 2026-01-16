@@ -5,3 +5,4 @@ Algorithms-
 2. Candidate Elimination Algorithm.
 Most specific string - NULL,NULL,NULL,NULL
 MOst generic string- ?,?,?,?
+So actually we start with very specific vector in the Find-S algorithm following that we only check through the positive concepts and modify our vector accordingly.
