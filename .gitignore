@@ -45,3 +45,6 @@ cmake_install.cmake
 !README
 !Makefile
 !CMakeLists.txt
+
+
+*.pdf
